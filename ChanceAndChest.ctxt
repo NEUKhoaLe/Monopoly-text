@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ChanceAndChest
+comment1.params=
+comment1.target=ChanceAndChest()
+comment2.params=card\ player\ currentPlayer
+comment2.target=void\ chestAction(int,\ java.util.ArrayList,\ Players)
+comment3.params=card\ player\ currentPlayer
+comment3.target=void\ chanceAction(int,\ java.util.ArrayList,\ Players)
+comment4.params=x
+comment4.target=void\ sopln(java.lang.String)
+numComments=5

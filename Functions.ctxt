@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Functions
+comment1.params=
+comment1.target=Functions()
+comment2.params=
+comment2.target=void\ Intro()
+comment3.params=
+comment3.target=void\ Instruction()
+comment4.params=
+comment4.target=int[]\ rollDice()
+comment5.params=dice
+comment5.target=boolean\ doubleDice(int[])
+comment6.params=dice
+comment6.target=int\ diceValue(int[])
+comment7.params=player
+comment7.target=java.util.ArrayList\ orderingPlayers(java.util.ArrayList)
+comment8.params=x
+comment8.target=void\ sop(java.lang.String)
+comment9.params=x
+comment9.target=void\ sopln(java.lang.String)
+numComments=10
